@@ -1,0 +1,26 @@
+{
+  "name": "direct_integration_with_google_pay_Tez-india-",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "start": "nodemon ./src/app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/debrajpaul/direct_integration_with_google_pay_Tez-india-.git"
+  },
+  "keywords": [],
+  "author": "pauldebraj7@gmail.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/debrajpaul/direct_integration_with_google_pay_Tez-india-/issues"
+  },
+  "homepage": "https://github.com/debrajpaul/direct_integration_with_google_pay_Tez-india-#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.2"
+  }
+}
